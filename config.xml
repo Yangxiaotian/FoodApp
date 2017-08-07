@@ -112,9 +112,6 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
-	<preference name="FadeSplashScreenDuration" value="0"/>
-	<preference name="FadeSplashScreen" value="false"/>
-	<preference name="FadeSplashScreen" value="false"/>
     <plugin name="cordova-plugin-device" spec="~1.1.6" />
     <plugin name="cordova-plugin-sim" spec="~1.3.3" />
     <plugin name="cordova-plugin-splashscreen" spec="~3.2.2" />

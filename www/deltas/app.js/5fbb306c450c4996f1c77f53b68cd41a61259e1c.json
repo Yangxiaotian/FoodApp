@@ -1,1 +1,1 @@
-["function _9b57c7257b3e38a2b3cc0e882a54f21b3ba516a9",50,612948,613026,10605,"try{",623631,150,"catch(c){a.update(c.message)}",604031,33,"panel",331551,35,623853,3493,"create('food.view.ModuleView',{html:a.message}).show(",627365,3554]
+["function _b7ef8cba215f628543cea9923af5f087066964f4",50,623581,"try{",623631,150,"catch(c){a.update(c.message)}",604031,33,"panel",331551,35,623853,3493,"create('food.view.ModuleView',{html:a.message}).show(",627365,3554]

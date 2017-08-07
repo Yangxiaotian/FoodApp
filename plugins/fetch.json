@@ -23,10 +23,10 @@
         "is_top_level": true,
         "variables": {}
     },
-    "cordova-plugin-barcodescanner": {
+    "phonegap-plugin-barcodescanner": {
         "source": {
             "type": "registry",
-            "id": "cordova-plugin-barcodescanner"
+            "id": "phonegap-plugin-barcodescanner"
         },
         "is_top_level": true,
         "variables": {}

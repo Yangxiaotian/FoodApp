@@ -1,1 +1,1 @@
-["function _8b54e6f0deeeda903ae5bca60ffb3cc542e46d9",49,617524,622992,484,618033,12849]
+["function _fb193639f693805f16a42028585ced23b1fde6fa",50,617523,622992,484,618033,5622,"try{cordova.plugins.barcodeScanner.scan(function(b){Bmc.Food.wholeLife(b.text",623692,33,",function(a){alert('Scanning failed: '+a)})}catch(c){a.update(c.message)}",624960,98,623822,7060]
